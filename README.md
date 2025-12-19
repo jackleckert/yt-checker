@@ -42,4 +42,4 @@ Analyze YouTube video transcripts and fact-check content using AI (Gemini).
 
 *   **Manifest**: V3
 *   **Permissions**: `activeTab`, `scripting`, `storage`
-*   **Model**: Uses `gemini-1.5-pro` for high-quality reasoning.
+*   **Model**: Uses `gemini-2.5-flash` for high-quality reasoning.
